@@ -1,0 +1,40 @@
+version: 5.1.0
+variant: default
+logo: /images/logo.svg
+head:
+    favicon: /images/logo.svg
+navbar:
+    menu:
+        Home: /
+        Archives: /archives
+        Categories: /categories
+    links:
+        GitHub: https://github.com
+        Download on GitHub:
+            icon: zaijun's github
+            url: https://github.com/TsaiHao
+sidebar:
+    left:
+        sticky: true
+
+widgets:
+    -
+        position: left
+        type: profile
+        avatar: /images/avatar2.png
+        author: zaijun
+        author_title: Multimedia SDE
+        location: Shenzhen, China
+        social_links:
+            Github:
+                icon: fab fa-github
+                url: https://github.com/TsaiHao
+    -
+        position: left
+        type: recent_posts
+    -
+        position: left
+        type: categories
+    -
+        position: left
+        type: tags
