@@ -1,12 +1,10 @@
 ---
-title: Self-Registration Factory Pattern in Cpp
+title: Self-Registration Factory Pattern in C++
 date: 2023-03-05 22:31:16
 tags:
   - c++
   - design pattern
 ---
-
-# Self-Registration Factory Pattern in C++
 
 ## Usage Scenarios
 

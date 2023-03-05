@@ -1,5 +1,5 @@
 ---
-title: Introduction to std::any in c++
+title: Introduction to std::any in C++
 date: 2022-12-04 18:08:01
 categories: blog
 tags: 
