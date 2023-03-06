@@ -17,6 +17,10 @@ sidebar:
     left:
         sticky: true
 
+comment:
+    type: disqus
+    shortname: zaijun-blog
+
 widgets:
     -
         position: left
